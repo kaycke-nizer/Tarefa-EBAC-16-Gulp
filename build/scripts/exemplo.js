@@ -1,0 +1,1 @@
+var variavelInteira=parseInt(1),variavelFlutuante=parseFloat(2.2),calculo=parseFloat(variavelInteira)+variavelFlutuante;alert(calculo);
